@@ -1,0 +1,34 @@
+
+.custom-table{
+    /* width: 100%; */
+    margin-left: 10%;
+   
+}
+.custom-input{
+    width: 40%!important;
+    margin-left: 23%;
+}
+.view{
+    margin-top: 20%;
+    margin-left:-20%;
+}
+.custom-heading{
+    margin-left:-7%
+}
+.tab{
+    margin-left: 9%;
+}
+.navbar{
+  background-color: rgb(148, 143, 143);
+}
+.dashboard{
+    margin-left: 440px;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+.icon-1{
+    margin-left: 100px;
+}
+.icon-2{
+    margin-left: 100px;
+}

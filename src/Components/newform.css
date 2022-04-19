@@ -1,0 +1,35 @@
+.left-side img{
+    height: 100vh;
+    width: 90%;
+}
+.right-side{
+    height: 100vh;
+    width: 50%;
+    margin-right: 10%;
+}
+.right-content{
+    margin-top: 35%;
+}
+.sidebar{
+    min-height: 100vh;
+    width: 12%;
+    float:left;
+    background-color: rgb(148, 143, 143);
+}
+.top-bar{
+    height: 150%;
+}
+.custom-table{
+    
+    margin-left: 25%;
+}
+.custom-message{
+    margin-left: 42%;
+    margin-top: 5%;
+}
+.custom-image{
+    margin-left:-50% ;
+}
+.custom-buttom{
+    width: 100px;
+}
